@@ -2,18 +2,31 @@ body{
   background-color:	#8b4513;
   color: #F5DEB3;
   font-family: Times New Roman, Gill Sans, Arial;
-  margin: 10% 10%;  
+  margin: 5% 5%;  
+  border-style:dashed; 
+  border-width: .5px;
 }
 
 h1{
+  text-align: center;
   text-transform: uppercase;
   font-size: 24px;
+  
+}
+.exp-header{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 18px;
+  border-top:1.5px solid #F5DEB3;
   border-bottom:1.5px solid #F5DEB3;
 }
 
-.exp-header{
-  text-transform: uppercase;
-    font-size: 18px;
-   border-top:1.5px solid #F5DEB3;
+h6{
+  text-align: right;
+}
+
+p{
+   text-align: center;
+  border-top:1.5px solid #F5DEB3;
   border-bottom:1.5px solid #F5DEB3;
 }
