@@ -1,1 +1,19 @@
+body{
+  background-color:	#8b4513;
+  color: #F5DEB3;
+  font-family: Times New Roman, Gill Sans, Arial;
+  margin: 10% 10%;  
+}
 
+h1{
+  text-transform: uppercase;
+  font-size: 24px;
+  border-bottom:1.5px solid #F5DEB3;
+}
+
+.exp-header{
+  text-transform: uppercase;
+    font-size: 18px;
+   border-top:1.5px solid #F5DEB3;
+  border-bottom:1.5px solid #F5DEB3;
+}
