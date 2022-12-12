@@ -1,32 +1,41 @@
 body{
   background-color:	#8b4513;
-  color: #F5DEB3;
   font-family: Times New Roman, Gill Sans, Arial;
   margin: 5% 5%;  
-  border-style:dashed; 
-  border-width: .5px;
+  border:outset .4px black; 
+  background: url("https://upload.wikimedia.org/wikipedia/commons/d/d8/Elegant_Background-2.jpg");
 }
 
 h1{
   text-align: center;
   text-transform: uppercase;
-  font-size: 24px;
-  
-}
+  font-size: 24px;	
+  text-shadow: 6px 6px 0px rgba(0,0,0,0.2)
+  }
+
 .exp-header{
   text-align: center;
   text-transform: uppercase;
   font-size: 14px;
   border-top:1.5px solid #F5DEB3;
   border-bottom:1.5px solid #F5DEB3;
+  border-color: #000000;
+}
+
+h4, h5{
+margin-left: 15px;
+margin-top: 10px
 }
 
 h6{
-  text-align: right;
+margin-left: 20px;
+margin-top: -10px;
 }
 
 p{
-   text-align: center;
+  text-align: center;
   border-top:1.5px solid #F5DEB3;
   border-bottom:1.5px solid #F5DEB3;
+  border-color: #000000;
+  padding: 5px;
 }
